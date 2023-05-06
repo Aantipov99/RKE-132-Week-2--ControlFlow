@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserGenderValidation/1.0.0": {
+        "dependencies": {
+          "Week2": "1.0.0"
+        },
+        "runtime": {
+          "UserGenderValidation.dll": {}
+        }
+      },
+      "Week2/1.0.0": {
+        "runtime": {
+          "Week2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserGenderValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Week2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
